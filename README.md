@@ -4,6 +4,6 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 # Generalized Problem
 Find the sum of all the multiples of b or c below a .
---
+
 https://www.makerduragi.com/en/math-with-python/
 --
